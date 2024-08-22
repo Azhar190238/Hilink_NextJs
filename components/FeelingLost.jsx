@@ -26,15 +26,7 @@ const FeelingLost = () => {
                 className="mySwiper"
             >
                 {/* <SwiperSlide>
-                    <div className="relative w-full h-full">
-                        <div className="relative w-full h-[600px] "> 
-                            <Image
-                                src='/img-1.png'
-                                layout="fill"
-                                objectFit="cover"
-                                alt='Image 1'
-                                className='rounded-3xl'
-                            />
+
                         </div>
                         <div className='absolute border-2 border-red-500'>
                             <div></div>
