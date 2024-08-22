@@ -76,11 +76,6 @@ export default Hero;
 
 
 
-//                     </div>
-//                 </div>
-//                 <div className="flex-1 relative">
-//                     <div className="relative lg:absolute lg:right-10 lg:bottom-10 w-full h-full">
-//                         <Image
 //                             src="/hero.png"
 //                             layout="fill"
 //                             objectFit="cover"
