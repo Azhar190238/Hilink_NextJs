@@ -4,7 +4,7 @@ import React from 'react';
 const Boat = () => {
     return (
         <div className=''>
-            <div className='rounded-3xl'>
+            <div>
 
                 <Image
                     src="/boat.png"
@@ -12,6 +12,7 @@ const Boat = () => {
                     layout="responsive"
                     width={1000}
                     height={1000}
+                     className='rounded-3xl'
                 />
             </div>
         </div>
