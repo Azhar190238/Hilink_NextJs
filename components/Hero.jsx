@@ -20,11 +20,6 @@
 
 
 
-//             </div>
-//         </div>
-//     );
-// };
-
 // export default Hero;
 
 
