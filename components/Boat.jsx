@@ -26,7 +26,7 @@ const Boat = () => {
                      className='rounded-3xl'
                 />
                     </div>
-                 {/* <div>
+                 <div>
                 <div className='flex space-x-16'>
                     <p className='text-gray-30'>Destination</p>
                     <p className='text-[#30AF5B]'>48 min</p>
@@ -37,7 +37,7 @@ const Boat = () => {
                     <h1>Wonorejo Pasuruan
                     </h1>
                   </div>
-                </div> */}
+                </div>
                 </div>
                 </div>
             </div>
