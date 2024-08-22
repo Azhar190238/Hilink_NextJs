@@ -73,14 +73,6 @@ export default Hero;
 
 
 
-// const Hero = () => {
-//     return (
-//         <div className="ml-5 mt-10">
-//             <div className="flex flex-col lg:flex-row space-x-8">
-//                 <div className="flex-1">
-//                     <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" />
-//                     <h1 className="font-bold text-3xl md:text-7xl text-black -mt-3">
-//                         Putuk Truno
 //                         <span className="block mt-6">Camp Area</span>
 //                     </h1>
 //                     <p className="mt-6 text-gray-30 max-w-[520px]">
