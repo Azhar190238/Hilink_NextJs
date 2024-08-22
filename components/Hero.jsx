@@ -76,8 +76,6 @@ export default Hero;
 
 
 
-//                                 <h1 className="mr-3">Elevation</h1>
-//                             </div>
 //                             <div className="text-white text-xl flex justify-between">
 //                                 <h1>173.28 mi</h1>
 //                                 <h1>2.040 km</h1>
