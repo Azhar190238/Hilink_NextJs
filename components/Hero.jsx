@@ -8,19 +8,9 @@
 //             <div className="flex flex-col lg:flex-row-reverse space-x-8">
 //             <div className="flex-1 relative">
 
-//                         <div className=' text-white text-xl flex justify-between'>
-//                             <h1> 173.28 mi</h1>
-//                             <h1>2.040 km</h1>
 
 //                         </div>
-                       
-
-
-
-
-
-
-// export default Hero;
+                    
 
 
 import Image from 'next/image';
