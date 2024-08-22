@@ -2,7 +2,7 @@ import React from 'react';
 
 const footer = () => {
     return (
-        <div className='max-w-[1320px] mx-auto pt-96'>
+        <div className='max-w-[1320px] mx-auto'>
            <footer className="mx-auto pl-20 ">
   <nav>
     <h6 className="footer-title">Service</h6>
