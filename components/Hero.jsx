@@ -10,13 +10,7 @@
 //                     <div className="relative lg:absolute lg:right-10 bottom-0 top-0 h-[1200px] ">
 //                         <Image src="/hero.png" height={800} width={800} alt="Hero Image"  />
 //                     </div>
-//                     <div className='bg-[#292C27] rounded-3xl w-[290px] relative top-28'>
-//                         <div className='p-8'>
-//                         <div className='text-gray-30 text-lg flex justify-between'>
-//                             <h1>Location</h1>
-//                             <CloseOutlined />
 
-//                         </div>
 //                         <h1 className='text-white text-xl mb-8'>Aguas Calientes</h1>
 //                         <div className='flex justify-between text-gray-30 text-lg '>
 //                             <h1 className=''>Distance</h1>
