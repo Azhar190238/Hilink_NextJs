@@ -75,9 +75,7 @@ export default Hero;
 
 
 
-//                             <Image src="/play.svg" height={30} width={30} alt="Play" />
-//                             <p className="pt-5 font-bold">How we work?</p>
-//                         </div>
+
 //                     </div>
 //                 </div>
 //                 <div className="flex-1 relative">
