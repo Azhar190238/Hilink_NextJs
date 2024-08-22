@@ -28,10 +28,10 @@ const Boat = () => {
                     </div>
                  <div>
                 <div className='flex space-x-16'>
-                    <p className='text-gray-30'>Destination</p>
-                    <p className='text-[#30AF5B]'>48 min</p>
+                    <p className='text-gray-30 text-lg'>Destination</p>
+                    <p className='text-[#30AF5B] text-lg'>48 min</p>
                 </div>
-                  <h1 className='text-2xl text-black font-bold my-2'>Aguas Calientes</h1>
+                  <h1 className='text-xl text-black font-bold my-2'>Aguas Calientes</h1>
                   <div className='pt-16'>
                     <p className='text-gray-30'>Start track</p>
                     <h1 className='text-xl text-black font-bold my-2'>Wonorejo Pasuruan
