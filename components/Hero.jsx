@@ -75,13 +75,6 @@ export default Hero;
 
 
 
-
-//                             src="/hero.png"
-//                             layout="fill"
-//                             objectFit="cover"
-//                             alt="Hero Image"
-//                             className="absolute inset-0 blur-sm"
-//                         />
 //                     </div>
 //                     <div className="bg-[#292C27] rounded-3xl w-[290px] relative top-28 z-10">
 //                         <div className="p-8">
