@@ -4,10 +4,16 @@ import React from 'react';
 const Boat = () => {
     return (
         <div className=''>
-         <div>
-        
-        
-         </div>
+            <div>
+
+                <Image
+                    src="/boat.png"
+                    alt="Camp Picture"
+                    layout="responsive"
+                    width={1000}
+                    height={1000}
+                />
+            </div>
         </div>
     );
 };
