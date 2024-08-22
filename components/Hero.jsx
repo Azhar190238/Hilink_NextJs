@@ -71,14 +71,6 @@ const Hero = () => {
 export default Hero;
 
 
-
-
-
-
-
-//                             <div className="text-white text-xl flex justify-between">
-//                                 <h1>173.28 mi</h1>
-//                                 <h1>2.040 km</h1>
 //                             </div>
 //                         </div>
 //                     </div>
