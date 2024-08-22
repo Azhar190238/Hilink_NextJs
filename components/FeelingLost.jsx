@@ -25,11 +25,7 @@ const FeelingLost = () => {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                {/* <SwiperSlide>
 
-
-                    </div>
-                </SwiperSlide> */}
                 <SwiperSlide>
                     <div className="relative w-full h-full">
                         <div className="relative w-full h-[600px]">
