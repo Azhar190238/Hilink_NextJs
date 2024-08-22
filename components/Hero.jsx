@@ -2,10 +2,6 @@
 // import React from 'react';
 // import { CloseOutlined } from '@ant-design/icons';
 
-// const Hero = () => {
-//     return (
-//         <div className="ml-5 mt-10">
-
                     
 
 
