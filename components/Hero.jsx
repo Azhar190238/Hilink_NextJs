@@ -25,13 +25,7 @@
 //                         We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
 //                     </p>
 //                     <div className="flex mt-6 space-x-4">
-//                         <div className="rating">
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" defaultChecked />
-//                         </div>
+
 //                         <p className="text-black">
 //                             <span className="font-bold">198k</span> Excellent Reviews
 //                         </p>
