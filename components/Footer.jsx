@@ -2,10 +2,10 @@ import React from 'react';
 
 const footer = () => {
     return (
-        <div className='max-w-[1320px] mx-auto'>
+        <div className='max-w-[1320px] mx-auto pt-96'>
            <footer className="mx-auto pl-20 ">
   <nav>
-    <h6 className="footer-title">Services</h6>
+    <h6 className="footer-title">Service</h6>
     <a className="link link-hover">Branding</a>
     <a className="link link-hover">Design</a>
     <a className="link link-hover">Marketing</a>
