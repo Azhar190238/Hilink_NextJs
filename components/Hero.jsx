@@ -1,9 +1,3 @@
-// import Image from 'next/image';
-// import React from 'react';
-// import { CloseOutlined } from '@ant-design/icons';
-
-                    
-
 
 import Image from 'next/image';
 import React from 'react';
