@@ -27,14 +27,7 @@ const FeelingLost = () => {
             >
                 {/* <SwiperSlide>
 
-                        </div>
-                        <div className='absolute border-2 border-red-500'>
-                            <div></div>
-                            <div>
-                                <h1>Putuk Truno Camp</h1>
-                                <h1>Prigen, Pasuruan</h1>
-                            </div>
-                        </div>
+
                     </div>
                 </SwiperSlide> */}
                 <SwiperSlide>
