@@ -75,10 +75,6 @@ export default Hero;
 
 
 
-//                     </div>
-//                     <div className="mt-6 flex space-x-12">
-//                         <button className="btn btn-lg btn-ghost text-white text-xl rounded-full bg-[#30AF5B]">Download App</button>
-//                         <div className="flex space-x-3">
 //                             <Image src="/play.svg" height={30} width={30} alt="Play" />
 //                             <p className="pt-5 font-bold">How we work?</p>
 //                         </div>
