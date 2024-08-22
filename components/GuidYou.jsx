@@ -3,15 +3,15 @@ import React from 'react';
 
 const GuidYou = () => {
     return (
-        <div className='max-w-[1320px] mx-auto'>
-            <div className='flex justify-between'>
+        <div className='max-w-[1320px] mx-auto mb-20'>
+            <div className='flex flex-col md:flex-row justify-between'>
                 <div>
                 <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" />
-                    <p className=''>We are here for you</p>
-                    <h1 className='text-5xl font-bold text-black'>Guide You to Easy Path </h1>
+                    <p className='text-[#30AF5B] text-2xl mb-4 -mt-2 uppercase'>We are here for you</p>
+                    <h1 className='text-6xl font-bold text-black'>Guide You <br /> <span className='block my-4'>to Easy Path </span> </h1>
                     
                 </div>
-                <div className='max-w-[520px]'>
+                <div className='max-w-[520px] flex items-center text-lg'>
                 <p className='text-gray-30'>Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
                 </div>
             </div>
