@@ -74,13 +74,7 @@ export default Hero;
 
 
 
-                            
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-//                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" defaultChecked />
-//                         </div>
-//                         <p className="text-black">
-//                             <span className="font-bold">198k</span> Excellent Reviews
-//                         </p>
+
 //                     </div>
 //                     <div className="mt-6 flex space-x-12">
 //                         <button className="btn btn-lg btn-ghost text-white text-xl rounded-full bg-[#30AF5B]">Download App</button>
