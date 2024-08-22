@@ -1,4 +1,5 @@
 "use client"
+import Boat from "@/components/Boat";
 import FeelingLost from "@/components/FeelingLost";
 import GuidYou from "@/components/GuidYou";
 import Hero from "@/components/Hero";
@@ -10,6 +11,7 @@ export default function Home() {
     <Hero></Hero>
     <FeelingLost></FeelingLost>
     <GuidYou></GuidYou>
+    <Boat></Boat>
   </div>
   );
 }
