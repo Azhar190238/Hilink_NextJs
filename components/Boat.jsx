@@ -33,7 +33,7 @@ const Boat = () => {
                 </div>
                   <h1 className='text-xl text-black font-bold my-2'>Aguas Calientes</h1>
                   <div className='pt-16'>
-                    <p className='text-gray-30'>Start track</p>
+                    <p className='text-gray-30 text-lg'>Start track</p>
                     <h1 className='text-xl text-black font-bold my-2'>Wonorejo Pasuruan
                     </h1>
                   </div>
