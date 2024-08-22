@@ -71,7 +71,4 @@ const Hero = () => {
 export default Hero;
 
 
-//                             </div>
-//                         </div>
-
 
