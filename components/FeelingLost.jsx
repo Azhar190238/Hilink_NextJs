@@ -11,7 +11,7 @@ import Image from 'next/image';
 
 const FeelingLost = () => {
     return (
-        <div className='relative border-2 border-red-500'>
+        <div className='relative'>
             <Swiper
                 slidesPerView={'auto'}
                 spaceBetween={30}
