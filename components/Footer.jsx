@@ -6,6 +6,7 @@ const footer = () => {
            <footer className="footer ">
   <nav>
 
+  <a className="btn btn-ghost font-bold text-2xl"><span>Hi</span><span className="-ml-2 text-[#30AF5B]">link.</span></a>
 
   </nav>
   <nav>
