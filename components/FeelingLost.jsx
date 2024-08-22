@@ -11,10 +11,10 @@ import Image from 'next/image';
 
 const FeelingLost = () => {
     return (
-        <>
+        <div className='relative'>
             <Swiper
                 slidesPerView={'auto'}
-                spaceBetween={20}
+                spaceBetween={30}
                 pagination={{
                     clickable: true,
                 }}
@@ -132,14 +132,15 @@ const FeelingLost = () => {
 
             </Swiper>
 
-            <div> 
-                <div>
-                    <h1 className='text-4xl font-bold'>
-                    Feeling Lost And Not Knowing The Way?
+            <div className='max-w-[700px] bg-[#30AF5B] rounded-3xl text-white absolute -bottom-40  right-10 z-10'> 
+                <div className='p-16'>
+                    <h1 className='text-4xl lg:text-6xl font-bold'>
+                    Feeling Lost And<span className="block my-4">Not Knowing The</span>Way?
                     </h1>
+                    <p className='mt-4 text-lg'>Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure</p>
                 </div>
             </div>
-        </>
+        </div>
     );
 };
 
