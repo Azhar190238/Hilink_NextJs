@@ -3,9 +3,9 @@ import React from 'react';
 const footer = () => {
     return (
         <div className='max-w-[1320px] mx-auto mt-20 '>
-           <footer className="footer  pl-20 ">
+           <footer className="footer ">
   <nav>
-    <h6 className="footer-title">Service</h6>
+    <h6 className="footer-title">Serviceces</h6>
     <a className="link link-hover">Branding</a>
     <a className="link link-hover">Design</a>
     <a className="link link-hover">Marketing</a>

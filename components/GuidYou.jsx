@@ -3,7 +3,7 @@ import React from 'react';
 
 const GuidYou = () => {
     return (
-        <div className='max-w-[1320px] mx-auto mb-20'>
+        <div className='mb-20 -mt-24'>
             <div className='flex flex-col md:flex-row justify-between'>
                 <div>
                 <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" />
