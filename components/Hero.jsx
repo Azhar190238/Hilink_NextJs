@@ -75,9 +75,7 @@ export default Hero;
 
 
 
-//                             <h1 className="text-white text-xl mb-8">Aguas Calientes</h1>
-//                             <div className="flex justify-between text-gray-30 text-lg">
-//                                 <h1>Distance</h1>
+
 //                                 <h1 className="mr-3">Elevation</h1>
 //                             </div>
 //                             <div className="text-white text-xl flex justify-between">
