@@ -25,36 +25,7 @@
 //                         We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
 //                     </p>
 
-//                 </div>
-//                 {/* <div className="flex-1 relative ">
-//                     <div className="relative lg:absolute lg:right-10 lg:bottom-10">
-//                         <Image src="/hero.png" height={800} width={800} alt="Hero Image" />
-//                     </div>
-//                     <div className='bg-[#292C27] rounded-3xl w-[290px] relative top-28'>
-//                         <div className='p-8'>
-//                         <div className='text-gray-30 text-lg flex justify-between'>
-//                             <h1>Location</h1>
-//                             <CloseOutlined />
 
-//                         </div>
-//                         <h1 className='text-white text-xl mb-8'>Aguas Calientes</h1>
-//                         <div className='flex justify-between text-gray-30 text-lg '>
-//                             <h1 className=''>Distance</h1>
-//                             <h1 className='mr-3'>Elevation</h1>
-
-//                         </div>
-//                         <div className=' text-white text-xl flex justify-between'>
-//                             <h1> 173.28 mi</h1>
-//                             <h1>2.040 km</h1>
-
-//                         </div>
-                       
-
-
-
-//                         </div>
-//                     </div>
-//                 </div> */}
 //             </div>
 //         </div>
 //     );
