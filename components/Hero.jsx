@@ -73,11 +73,7 @@ export default Hero;
 
 
 
-//                         <span className="block mt-6">Camp Area</span>
-//                     </h1>
-//                     <p className="mt-6 text-gray-30 max-w-[520px]">
-//                         We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
-//                     </p>
+
 //                     <div className="flex mt-6 space-x-4">
 //                         <div className="rating">
 //                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
