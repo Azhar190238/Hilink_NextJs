@@ -75,11 +75,6 @@ export default Hero;
 
 
 
-//                     </div>
-//                     <div className="bg-[#292C27] rounded-3xl w-[290px] relative top-28 z-10">
-//                         <div className="p-8">
-//                             <div className="text-gray-30 text-lg flex justify-between">
-//                                 <h1>Location</h1>
 //                                 <CloseOutlined />
 //                             </div>
 //                             <h1 className="text-white text-xl mb-8">Aguas Calientes</h1>
