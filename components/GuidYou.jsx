@@ -7,7 +7,7 @@ const GuidYou = () => {
             <div className='flex justify-between'>
                 <div>
                 <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" />
-                    <p>We are here for you</p>
+                    <p className=''>We are here for you</p>
                     <h1 className='text-5xl font-bold text-black'>Guide You to Easy Path </h1>
                     
                 </div>
