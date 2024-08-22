@@ -4,7 +4,7 @@ import React from 'react';
 const Boat = () => {
     return (
         <div className=''>
-            <div>
+            <div className='rounded-3xl'>
 
                 <Image
                     src="/boat.png"
