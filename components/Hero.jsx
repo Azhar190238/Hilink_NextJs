@@ -76,9 +76,4 @@ export default Hero;
 //                     </div>
 //                 </div>
 //             </div>
-//         </div>
-//     );
-// };
-
-// export default Hero;
 
