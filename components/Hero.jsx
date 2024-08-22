@@ -24,14 +24,7 @@
 //                     <p className="mt-6 text-gray-30 max-w-[520px]">
 //                         We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
 //                     </p>
-//                     <div className="flex mt-6 space-x-4">
 
-//                         <p className="text-black">
-//                             <span className="font-bold">198k</span> Excellent Reviews
-//                         </p>
-//                     </div>
-
-//                     </div>
 //                 </div>
 //                 {/* <div className="flex-1 relative ">
 //                     <div className="relative lg:absolute lg:right-10 lg:bottom-10">
