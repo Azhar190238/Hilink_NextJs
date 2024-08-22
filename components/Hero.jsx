@@ -7,16 +7,7 @@
 //         <div className="ml-5 mt-10">
 //             <div className="flex flex-col lg:flex-row-reverse space-x-8">
 //             <div className="flex-1 relative">
-//                     <div className="relative lg:absolute lg:right-10 bottom-0 top-0 h-[1200px] ">
-//                         <Image src="/hero.png" height={800} width={800} alt="Hero Image"  />
-//                     </div>
 
-//                         <h1 className='text-white text-xl mb-8'>Aguas Calientes</h1>
-//                         <div className='flex justify-between text-gray-30 text-lg '>
-//                             <h1 className=''>Distance</h1>
-//                             <h1 className='mr-3'>Elevation</h1>
-
-//                         </div>
 //                         <div className=' text-white text-xl flex justify-between'>
 //                             <h1> 173.28 mi</h1>
 //                             <h1>2.040 km</h1>
