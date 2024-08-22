@@ -34,7 +34,7 @@ const Boat = () => {
                   <h1 className='text-2xl text-black font-bold my-2'>Aguas Calientes</h1>
                   <div className='pt-16'>
                     <p>Start track</p>
-                    <h1>Wonorejo Pasuruan
+                    <h1 className='text-2xl text-black font-bold my-2'>Wonorejo Pasuruan
                     </h1>
                   </div>
                 </div>
