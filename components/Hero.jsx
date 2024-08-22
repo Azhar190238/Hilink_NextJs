@@ -75,8 +75,6 @@ export default Hero;
 
 
 
-//                                 <CloseOutlined />
-//                             </div>
 //                             <h1 className="text-white text-xl mb-8">Aguas Calientes</h1>
 //                             <div className="flex justify-between text-gray-30 text-lg">
 //                                 <h1>Distance</h1>
