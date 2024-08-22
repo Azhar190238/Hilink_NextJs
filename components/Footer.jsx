@@ -5,11 +5,8 @@ const footer = () => {
         <div className='max-w-[1320px] mx-auto mt-20 '>
            <footer className="footer ">
   <nav>
-    <h6 className="footer-title">Serviceces</h6>
-    <a className="link link-hover">Branding</a>
-    <a className="link link-hover">Design</a>
-    <a className="link link-hover">Marketing</a>
-    <a className="link link-hover">Advertisement</a>
+
+
   </nav>
   <nav>
     <h6 className="footer-title">Services</h6>
