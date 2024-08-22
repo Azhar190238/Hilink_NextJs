@@ -5,11 +5,7 @@
 // const Hero = () => {
 //     return (
 //         <div className="ml-5 mt-10">
-//             <div className="flex flex-col lg:flex-row-reverse space-x-8">
-//             <div className="flex-1 relative">
 
-
-//                         </div>
                     
 
 
