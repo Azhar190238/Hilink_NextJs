@@ -132,7 +132,7 @@ const FeelingLost = () => {
 
             </Swiper>
 
-            <div className='max-w-[700px] bg-[#30AF5B] rounded-3xl text-white relative bottom-60  left-[550px] z-10'> 
+            <div className='max-w-[700px] bg-[#30AF5B] rounded-3xl text-white relative my-10 lg:my-0 lg:bottom-60  lg:left-[550px] z-10'> 
                 <div className='p-16'>
                     <h1 className='text-4xl lg:text-6xl font-bold'>
                     Feeling Lost And<span className="block my-4">Not Knowing The</span>Way?
