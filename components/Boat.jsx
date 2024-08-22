@@ -15,7 +15,9 @@ const Boat = () => {
                      className='rounded-3xl'
                 />
             </div>
-            <div></div>
+            <div>
+                <div></div>
+            </div>
         </div>
     );
 };
