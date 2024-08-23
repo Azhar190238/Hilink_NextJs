@@ -4,6 +4,7 @@ import FeelingLost from "@/components/FeelingLost";
 import GoFree from "@/components/GoFree";
 import GuidYou from "@/components/GuidYou";
 import Hero from "@/components/Hero";
+import OurFeatures from "@/components/OurFeatures";
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
     <FeelingLost></FeelingLost>
     <GuidYou></GuidYou>
     <Boat></Boat>
+    <OurFeatures></OurFeatures>
     <GoFree></GoFree>
   </div>
   );
