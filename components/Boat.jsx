@@ -20,7 +20,7 @@ const Boat = () => {
                     <Image
                     src="/meter.svg"
                     alt="Camp Picture"
-                     // for full width
+                   
                     width={30}
                     height={30}
                      className='rounded-3xl'
