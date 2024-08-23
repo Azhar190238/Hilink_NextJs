@@ -4,7 +4,7 @@ import React from 'react';
 const GoFree = () => {
     return (
         <div
-            className='rounded-3xl bg-cover bg-center mt-36 md:my-10 '
+            className='rounded-3xl bg-cover bg-center '
             style={{ backgroundImage: "url('/pattern.png')" }}
         >
             <div className='flex flex-col lg:flex-row space-x-20'>
