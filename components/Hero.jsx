@@ -28,8 +28,8 @@ const Hero = () => {
                             <span className="font-bold">198k</span> Excellent Reviews
                         </p>
                     </div>
-                    <div className="mt-6 flex space-x-12">
-                        <button className="btn btn-lg btn-ghost text-white text-xl rounded-full bg-[#30AF5B]">Download App</button>
+                    <div className="mt-6 flex space-x-4 md:space-x-12">
+                        <button className="btn md:btn-lg btn-ghost text-white md:text-xl rounded-full bg-[#30AF5B]">Download App</button>
                         <div className="flex space-x-3">
                             <Image src="/play.svg" height={30} width={30} alt="Play" />
                             <p className="pt-5 font-bold">How we work?</p>
@@ -45,18 +45,18 @@ const Hero = () => {
                             alt="Hero Image"
                         />
                     </div>
-                    <div className="bg-[#292C27] rounded-3xl w-[290px] relative top-28 left-4 z-10">
+                    <div className="bg-[#292C27] rounded-3xl max-w-[290px] relative top-32 md:top-28 left-0 md:left-4 z-10">
                         <div className="p-8 mb-20 md:mb-0">
-                            <div className="text-gray-30 text-lg flex justify-between">
+                            <div className="text-gray-30 md:text-lg flex justify-between">
                                 <h1>Location</h1>
                                 <CloseOutlined />
                             </div>
-                            <h1 className="text-white text-xl mb-8">Aguas Calientes</h1>
-                            <div className="flex justify-between text-gray-30 text-lg">
+                            <h1 className="text-white md:text-xl mb-8">Aguas Calientes</h1>
+                            <div className="flex justify-between text-gray-30 md:text-lg">
                                 <h1>Distance</h1>
                                 <h1 className="mr-3">Elevation</h1>
                             </div>
-                            <div className="text-white text-xl flex justify-between">
+                            <div className="text-white md:text-xl flex justify-between">
                                 <h1>173.28 mi</h1>
                                 <h1>2.040 km</h1>
                             </div>
