@@ -25,7 +25,7 @@ const GoFree = () => {
                 {/* <div className='relative -top-44 border-2 border-red-500 overflow-hidden'>
                 <Image src='/phones.png' height={800} width={500} alt='Apple' className='object-cover'></Image>
                 </div> */}
-                <div className='relative  overflow-hidden md:h-[550px] flex items-center justify-center'>
+                <div className='relative  overflow-hidden lg:h-[550px] flex items-center justify-center'>
                     <Image src='/phones.png' height={800} width={500} alt='Apple' className=' object-center'></Image>
                 </div>
             </div>

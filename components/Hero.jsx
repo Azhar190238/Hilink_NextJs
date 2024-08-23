@@ -5,7 +5,7 @@ import { CloseOutlined } from '@ant-design/icons';
 
 const Hero = () => {
     return (
-        <div className="ml-5 mt-10 relative">
+        <div className="ml-5 mt-10 mb-0 md:mb-16 lg:mb-0  relative">
             <div className="flex flex-col lg:flex-row space-x-8">
                 <div className="flex-1 z-10">
                     <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" />

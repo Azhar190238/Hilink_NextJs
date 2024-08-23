@@ -7,7 +7,7 @@ import { CiLocationOn } from "react-icons/ci";
 
 const OurFeatures = () => {
     return (
-        <div className='mt-32 md:mt-0mb-32'>
+        <div className='mt-32 md:mt-0 mb-32'>
             <div className=" w-full bg-cover bg-center bg-no-repeat rounded-xl " style={{ backgroundImage: "url('/feature-bg.png')" }}>
                 <div className='flex flex-col justify-center items-center mb-10'>
                     <Image src="/camp.svg" height={50} width={50} alt="Camp Picture" className='relative right-28 md:right-52' />
