@@ -9,7 +9,7 @@ const Boat = () => {
                 <Image
                     src="/boat.png"
                     alt="Camp Picture"
-                    layout="responsive" // for full width
+                    layout="responsive" 
                     width={1000}
                     height={1000}
                     className='rounded-3xl'

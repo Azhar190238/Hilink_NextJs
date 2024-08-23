@@ -10,7 +10,7 @@ const Navbar = () => {
     const links = [
         { name: 'Home', path: '/' },
         { name: 'How Hilink Work ?', path: '/' },
-        { name: 'Services', path: '/' },
+        { name: 'Services', path: '/services' },
         { name: 'Pricing', path: '/' },
         { name: 'Contact Us', path: '/' },
     ];
